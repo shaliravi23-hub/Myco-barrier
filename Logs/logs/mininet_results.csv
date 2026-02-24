@@ -1,0 +1,4 @@
+Strategy,Latency_ms,Throughput_Mbps,PDR_Pct
+Myco-Scout,10.803591000239976,0.0,0.0
+Myco-Box,6.149382000330661,0.0,0.0
+Myco-Swap,6.37915500010422,0.0,0.0
