@@ -4,7 +4,7 @@ This repository provides the supporting data and environmental configurations fo
 
 ## 📂 Repository Structure
 
-* **`/Environment_Configs`**: Contains scripts and configuration files for setting up the Mininet emulation environment, including the 100-node SDN-IoT topology used in the study.
+* **`/Environment_Configs`**: Contains scripts and configuration files for setting up the Mininet emulation environment, including the 10/30/50-node SDN-IoT topology used in the study.
 * **`/Logs`**: This folder contains the raw output files generated during simulation runs and mininet, including:
     * Packet Delivery Ratio (PDR) metrics.
     * Latency and response time logs.
